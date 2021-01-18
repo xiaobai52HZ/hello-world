@@ -1,5 +1,5 @@
 # hello-world
-Hi humans!
+Hi,programmers!
 
 This is my first try to use github.
-Now I'm changing new branch that Ihave created.
+Now I'm changing new branch that I have created.
